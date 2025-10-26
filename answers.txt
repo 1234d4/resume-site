@@ -1,0 +1,7 @@
+Assignment 1 – Short Answers
+
+Question 1: What does the intrapage link do after you add it and click it?
+Answer: It scrolls/jumps to the section on the same page that matches the anchor id (e.g., clicking “Skip down to my Education” moves to the element with id="education").
+
+Question 2: Which type of list did you choose and why?
+Answer: Unordered list, because skills don’t have a required order and bullets are clearer than numbers here.
